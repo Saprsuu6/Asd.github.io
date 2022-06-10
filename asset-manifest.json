@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1a9282f.css",
+    "main.js": "/static/js/main.7d7fe7da.js",
+    "static/js/787.046ac7de.chunk.js": "/static/js/787.046ac7de.chunk.js",
+    "static/media/Grob.jpg": "/static/media/Grob.bccf72c7600f3a70f65a.jpg",
+    "index.html": "/index.html",
+    "main.b1a9282f.css.map": "/static/css/main.b1a9282f.css.map",
+    "main.7d7fe7da.js.map": "/static/js/main.7d7fe7da.js.map",
+    "787.046ac7de.chunk.js.map": "/static/js/787.046ac7de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a9282f.css",
+    "static/js/main.7d7fe7da.js"
+  ]
+}
